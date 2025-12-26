@@ -4,3 +4,4 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+path:/^MIT.txt$/ is:archived
